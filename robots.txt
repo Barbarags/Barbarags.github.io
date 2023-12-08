@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Barbarags.github.io/BG-folio/sitemap.xml
